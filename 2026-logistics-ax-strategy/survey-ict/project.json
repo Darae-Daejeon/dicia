@@ -1,0 +1,12 @@
+{
+  "id": "dicia-ict-survey-2026",
+  "year": 2026,
+  "type": "survey",
+  "org": ["dicia"],
+  "title": "대전 ICT기업 스마트물류 AX 수요조사",
+  "kind": "수요조사",
+  "short": "DICIA ICT 수요조사",
+  "parent": "지역 물류기업 스마트물류 AX 전략수립 용역",
+  "date": "2026-11-27",
+  "dateLabel": "~ 2026.11.27"
+}
